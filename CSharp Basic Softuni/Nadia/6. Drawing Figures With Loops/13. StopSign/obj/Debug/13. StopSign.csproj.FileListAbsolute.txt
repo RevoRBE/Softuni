@@ -1,0 +1,6 @@
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\13. StopSign\bin\Debug\_13.StopSign.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\13. StopSign\bin\Debug\_13.StopSign.exe
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\13. StopSign\bin\Debug\_13.StopSign.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\13. StopSign\obj\Debug\13. StopSign.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\13. StopSign\obj\Debug\_13.StopSign.exe
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\13. StopSign\obj\Debug\_13.StopSign.pdb

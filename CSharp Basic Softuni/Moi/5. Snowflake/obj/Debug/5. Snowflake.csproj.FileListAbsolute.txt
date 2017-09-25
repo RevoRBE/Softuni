@@ -1,0 +1,5 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\5. Snowflake\bin\Debug\_5.Snowflake.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\5. Snowflake\bin\Debug\_5.Snowflake.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\5. Snowflake\bin\Debug\_5.Snowflake.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\5. Snowflake\obj\Debug\_5.Snowflake.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\5. Snowflake\obj\Debug\_5.Snowflake.pdb

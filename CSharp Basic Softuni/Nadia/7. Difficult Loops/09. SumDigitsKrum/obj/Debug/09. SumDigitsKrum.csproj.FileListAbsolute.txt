@@ -1,0 +1,1 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\09. SumDigitsKrum\bin\Debug\_09.SumDigitsKrum.exe.config

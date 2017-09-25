@@ -1,0 +1,6 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Difficult Loops\21. MagicDigit2\bin\Debug\_21.MagicDigit2.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\21. MagicDigit2\bin\Debug\_21.MagicDigit2.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\21. MagicDigit2\bin\Debug\_21.MagicDigit2.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\21. MagicDigit2\bin\Debug\_21.MagicDigit2.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\21. MagicDigit2\obj\Debug\_21.MagicDigit2.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\21. MagicDigit2\obj\Debug\_21.MagicDigit2.pdb

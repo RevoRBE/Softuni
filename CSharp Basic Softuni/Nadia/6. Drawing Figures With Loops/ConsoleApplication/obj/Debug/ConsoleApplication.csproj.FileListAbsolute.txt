@@ -1,0 +1,7 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

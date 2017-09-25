@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

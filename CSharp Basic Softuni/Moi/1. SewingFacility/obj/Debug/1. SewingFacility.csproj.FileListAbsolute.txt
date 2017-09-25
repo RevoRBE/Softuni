@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\1. SewingFacility\bin\Debug\_1.SewingFacility.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\1. SewingFacility\bin\Debug\_1.SewingFacility.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\1. SewingFacility\bin\Debug\_1.SewingFacility.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\1. SewingFacility\obj\Debug\1. SewingFacility.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\1. SewingFacility\obj\Debug\_1.SewingFacility.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\1. SewingFacility\obj\Debug\_1.SewingFacility.pdb

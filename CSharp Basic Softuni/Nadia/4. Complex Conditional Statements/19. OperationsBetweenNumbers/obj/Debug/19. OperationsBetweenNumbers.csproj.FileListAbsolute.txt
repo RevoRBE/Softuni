@@ -1,0 +1,6 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\19. OperationsBetweenNumbers\bin\Debug\_19.OperationsBetweenNumbers.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\19. OperationsBetweenNumbers\bin\Debug\_19.OperationsBetweenNumbers.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\19. OperationsBetweenNumbers\bin\Debug\_19.OperationsBetweenNumbers.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\19. OperationsBetweenNumbers\obj\Debug\19. OperationsBetweenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\19. OperationsBetweenNumbers\obj\Debug\_19.OperationsBetweenNumbers.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\19. OperationsBetweenNumbers\obj\Debug\_19.OperationsBetweenNumbers.pdb

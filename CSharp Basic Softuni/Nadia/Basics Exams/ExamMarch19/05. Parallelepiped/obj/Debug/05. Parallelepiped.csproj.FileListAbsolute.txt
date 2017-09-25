@@ -1,0 +1,5 @@
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\05. Parallelepiped\bin\Debug\_05.Parallelepiped.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\05. Parallelepiped\bin\Debug\_05.Parallelepiped.exe
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\05. Parallelepiped\bin\Debug\_05.Parallelepiped.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\05. Parallelepiped\obj\Debug\_05.Parallelepiped.exe
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\05. Parallelepiped\obj\Debug\_05.Parallelepiped.pdb

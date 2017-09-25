@@ -1,0 +1,3 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\08. TradeComissions\bin\Debug\_08.TradeComissions.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\08. TradeComissions\bin\Debug\_08.TradeComissions.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\08. TradeComissions\obj\Debug\08. TradeComissions.csprojResolveAssemblyReference.cache

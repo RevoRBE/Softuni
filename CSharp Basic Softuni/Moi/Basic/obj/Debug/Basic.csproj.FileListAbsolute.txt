@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Basic\bin\Debug\Basic.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Basic\bin\Debug\Basic.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Basic\bin\Debug\Basic.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Basic\obj\Debug\Basic.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Basic\obj\Debug\Basic.pdb
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Basic\obj\Debug\Basic.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Difficult Loops\06. NumberInRange\bin\Debug\_06.NumberInRange.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Difficult Loops\06. NumberInRange\bin\Debug\_06.NumberInRange.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Difficult Loops\06. NumberInRange\bin\Debug\_06.NumberInRange.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Difficult Loops\06. NumberInRange\obj\Debug\06. NumberInRange.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\Difficult Loops\06. NumberInRange\obj\Debug\_06.NumberInRange.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Difficult Loops\06. NumberInRange\obj\Debug\_06.NumberInRange.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\06. NumberInRange\bin\Debug\_06.NumberInRange.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\06. NumberInRange\bin\Debug\_06.NumberInRange.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\06. NumberInRange\bin\Debug\_06.NumberInRange.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\06. NumberInRange\obj\Debug\06. NumberInRange.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\06. NumberInRange\obj\Debug\_06.NumberInRange.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\06. NumberInRange\obj\Debug\_06.NumberInRange.pdb

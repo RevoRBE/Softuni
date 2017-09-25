@@ -1,0 +1,5 @@
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\03. SquareOfStars\bin\Debug\_03.SquareOfStars.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\03. SquareOfStars\bin\Debug\_03.SquareOfStars.exe
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\03. SquareOfStars\bin\Debug\_03.SquareOfStars.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\03. SquareOfStars\obj\Debug\_03.SquareOfStars.exe
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\03. SquareOfStars\obj\Debug\_03.SquareOfStars.pdb

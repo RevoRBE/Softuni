@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6. Sum or Product\bin\Debug\_6.Sum_or_Product.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6. Sum or Product\bin\Debug\_6.Sum_or_Product.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6. Sum or Product\bin\Debug\_6.Sum_or_Product.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6. Sum or Product\obj\Debug\6. Sum or Product.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6. Sum or Product\obj\Debug\_6.Sum_or_Product.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6. Sum or Product\obj\Debug\_6.Sum_or_Product.pdb

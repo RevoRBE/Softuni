@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\09. VowelsSum\obj\Debug\_09.VowelsSum.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\09. VowelsSum\obj\Debug\_09.VowelsSum.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\09. VowelsSum\obj\Debug\_09.VowelsSum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\09. VowelsSum\obj\Debug\_09.VowelsSum.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\09. VowelsSum\obj\Debug\09. VowelsSum.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.pdb

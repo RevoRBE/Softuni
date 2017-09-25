@@ -1,0 +1,6 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\15. Harvest\bin\Debug\_15.Harvest.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\15. Harvest\bin\Debug\_15.Harvest.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\15. Harvest\bin\Debug\_15.Harvest.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\15. Harvest\obj\Debug\15. Harvest.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\15. Harvest\obj\Debug\_15.Harvest.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\15. Harvest\obj\Debug\_15.Harvest.pdb

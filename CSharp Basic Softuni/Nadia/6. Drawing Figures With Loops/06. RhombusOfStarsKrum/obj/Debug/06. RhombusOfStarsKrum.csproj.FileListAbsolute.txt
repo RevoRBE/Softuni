@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\06. RhombusOfStarsKrum\bin\Debug\_06.RhombusOfStarsKrum.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\06. RhombusOfStarsKrum\bin\Debug\_06.RhombusOfStarsKrum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\06. RhombusOfStarsKrum\bin\Debug\_06.RhombusOfStarsKrum.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\06. RhombusOfStarsKrum\obj\Debug\06. RhombusOfStarsKrum.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\06. RhombusOfStarsKrum\obj\Debug\_06.RhombusOfStarsKrum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\06. RhombusOfStarsKrum\obj\Debug\_06.RhombusOfStarsKrum.pdb

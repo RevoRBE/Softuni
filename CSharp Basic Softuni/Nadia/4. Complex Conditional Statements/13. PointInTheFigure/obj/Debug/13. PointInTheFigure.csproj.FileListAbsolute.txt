@@ -1,0 +1,9 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\13. PointInTheFigure\bin\Debug\_13.PointInTheFigure.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\13. PointInTheFigure\bin\Debug\_13.PointInTheFigure.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\13. PointInTheFigure\bin\Debug\_13.PointInTheFigure.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\13. PointInTheFigure\obj\Debug\13. PointInTheFigure.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\13. PointInTheFigure\obj\Debug\_13.PointInTheFigure.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\13. PointInTheFigure\obj\Debug\_13.PointInTheFigure.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\13. PointInTheFigure\bin\Debug\_13.PointInTheFigure.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\13. PointInTheFigure\obj\Debug\_13.PointInTheFigure.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\13. PointInTheFigure\obj\Debug\_13.PointInTheFigure.pdb

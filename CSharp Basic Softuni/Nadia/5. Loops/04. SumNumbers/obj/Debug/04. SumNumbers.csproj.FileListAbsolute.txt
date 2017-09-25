@@ -1,0 +1,8 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.pdb

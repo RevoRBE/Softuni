@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\2. Scholarship\obj\Debug\2. Scholarship.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\2. Scholarship\bin\Debug\_2.Scholarship.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\2. Scholarship\bin\Debug\_2.Scholarship.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\2. Scholarship\bin\Debug\_2.Scholarship.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\2. Scholarship\obj\Debug\_2.Scholarship.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\2. Scholarship\obj\Debug\_2.Scholarship.pdb

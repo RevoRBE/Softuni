@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3.Final Competition\obj\Debug\3.Final Competition.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3.Final Competition\bin\Debug\03Final Competition.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3.Final Competition\bin\Debug\03Final Competition.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3.Final Competition\bin\Debug\03Final Competition.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3.Final Competition\obj\Debug\03Final Competition.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3.Final Competition\obj\Debug\03Final Competition.pdb

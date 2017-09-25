@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Hourglass", "05. Hourglass\05. Hourglass.csproj", "{2963C09E-2182-452F-9AAC-FDB5D6D69150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. TwoNumbersSum", "06. TwoNumbersSum\06. TwoNumbersSum.csproj", "{B1BD482E-8B70-4FE2-A20A-C5FF76C398BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2963C09E-2182-452F-9AAC-FDB5D6D69150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2963C09E-2182-452F-9AAC-FDB5D6D69150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2963C09E-2182-452F-9AAC-FDB5D6D69150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2963C09E-2182-452F-9AAC-FDB5D6D69150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1BD482E-8B70-4FE2-A20A-C5FF76C398BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BD482E-8B70-4FE2-A20A-C5FF76C398BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BD482E-8B70-4FE2-A20A-C5FF76C398BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BD482E-8B70-4FE2-A20A-C5FF76C398BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\05. InvalidNumber\bin\Debug\_05.InvalidNumber.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\05. InvalidNumber\bin\Debug\_05.InvalidNumber.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\05. InvalidNumber\bin\Debug\_05.InvalidNumber.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\05. InvalidNumber\obj\Debug\_05.InvalidNumber.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\05. InvalidNumber\obj\Debug\_05.InvalidNumber.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\05. InvalidNumber\bin\Debug\_05.InvalidNumber.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\05. InvalidNumber\obj\Debug\_05.InvalidNumber.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\05. InvalidNumber\obj\Debug\_05.InvalidNumber.pdb

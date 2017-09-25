@@ -1,0 +1,6 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\13. Histogram\bin\Debug\_13.Histogram.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\13. Histogram\bin\Debug\_13.Histogram.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\13. Histogram\bin\Debug\_13.Histogram.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\13. Histogram\obj\Debug\13. Histogram.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\13. Histogram\obj\Debug\_13.Histogram.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\13. Histogram\obj\Debug\_13.Histogram.pdb

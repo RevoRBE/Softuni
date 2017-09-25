@@ -1,0 +1,6 @@
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\12. Butterfly\bin\Debug\_12.Butterfly.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\12. Butterfly\bin\Debug\_12.Butterfly.exe
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\12. Butterfly\bin\Debug\_12.Butterfly.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\12. Butterfly\obj\Debug\12. Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\12. Butterfly\obj\Debug\_12.Butterfly.exe
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\12. Butterfly\obj\Debug\_12.Butterfly.pdb

@@ -1,0 +1,6 @@
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\02. ToyShop\bin\Debug\_02.ToyShop.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\02. ToyShop\bin\Debug\_02.ToyShop.exe
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\02. ToyShop\bin\Debug\_02.ToyShop.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\02. ToyShop\obj\Debug\02. ToyShop.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\02. ToyShop\obj\Debug\_02.ToyShop.exe
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\02. ToyShop\obj\Debug\_02.ToyShop.pdb

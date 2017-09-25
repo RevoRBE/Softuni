@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\02. SmallShop\bin\Debug\_02.SmallShop.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\02. SmallShop\bin\Debug\_02.SmallShop.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\02. SmallShop\bin\Debug\_02.SmallShop.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\02. SmallShop\obj\Debug\_02.SmallShop.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\02. SmallShop\obj\Debug\_02.SmallShop.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\02. SmallShop\bin\Debug\_02.SmallShop.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\02. SmallShop\obj\Debug\_02.SmallShop.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\02. SmallShop\obj\Debug\_02.SmallShop.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\02. SmallShop\obj\Debug\02. SmallShop.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\02. SmallShop\bin\Debug\_02.SmallShop.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\02. SmallShop\bin\Debug\_02.SmallShop.pdb

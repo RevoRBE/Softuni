@@ -1,0 +1,10 @@
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\02. RectangleNxNStars\bin\Debug\_02.RectangleNxNStars.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\02. RectangleNxNStars\bin\Debug\_02.RectangleNxNStars.exe
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\02. RectangleNxNStars\bin\Debug\_02.RectangleNxNStars.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\02. RectangleNxNStars\obj\Debug\_02.RectangleNxNStars.exe
+C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\02. RectangleNxNStars\obj\Debug\_02.RectangleNxNStars.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\02. RectangleNxNStars\bin\Debug\_02.RectangleNxNStars.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\02. RectangleNxNStars\obj\Debug\_02.RectangleNxNStars.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\02. RectangleNxNStars\obj\Debug\_02.RectangleNxNStars.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\02. RectangleNxNStars\bin\Debug\_02.RectangleNxNStars.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\02. RectangleNxNStars\bin\Debug\_02.RectangleNxNStars.pdb

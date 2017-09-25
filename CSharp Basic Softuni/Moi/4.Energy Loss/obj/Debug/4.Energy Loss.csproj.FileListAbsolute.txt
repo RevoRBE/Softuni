@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4.Energy Loss\bin\Debug\4.Energy Loss.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4.Energy Loss\bin\Debug\4.Energy Loss.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4.Energy Loss\bin\Debug\4.Energy Loss.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4.Energy Loss\obj\Debug\4.Energy Loss.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4.Energy Loss\obj\Debug\4.Energy Loss.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4.Energy Loss\obj\Debug\4.Energy Loss.pdb

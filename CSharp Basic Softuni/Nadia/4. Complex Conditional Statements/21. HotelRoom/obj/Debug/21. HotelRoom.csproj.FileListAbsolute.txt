@@ -1,0 +1,9 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\21. HotelRoom\bin\Debug\_21.HotelRoom.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\21. HotelRoom\bin\Debug\_21.HotelRoom.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\21. HotelRoom\bin\Debug\_21.HotelRoom.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\21. HotelRoom\obj\Debug\21. HotelRoom.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\21. HotelRoom\obj\Debug\_21.HotelRoom.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\21. HotelRoom\obj\Debug\_21.HotelRoom.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\21. HotelRoom\bin\Debug\_21.HotelRoom.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\21. HotelRoom\obj\Debug\_21.HotelRoom.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\21. HotelRoom\obj\Debug\_21.HotelRoom.pdb

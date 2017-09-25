@@ -1,0 +1,6 @@
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\04. Bills\bin\Debug\_04.Bills.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\04. Bills\bin\Debug\_04.Bills.exe
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\04. Bills\bin\Debug\_04.Bills.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\04. Bills\obj\Debug\04. Bills.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\04. Bills\obj\Debug\_04.Bills.exe
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\04. Bills\obj\Debug\_04.Bills.pdb

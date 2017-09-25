@@ -1,0 +1,12 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\bin\Debug\_05.SquareFrameKrum.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\bin\Debug\_05.SquareFrameKrum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\bin\Debug\_05.SquareFrameKrum.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\obj\Debug\05. SquareFrameKrum.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\obj\Debug\_05.SquareFrameKrum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\obj\Debug\_05.SquareFrameKrum.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\bin\Debug\_05.SquareFrameKrum.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\bin\Debug\_05.SquareFrameKrum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\bin\Debug\_05.SquareFrameKrum.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\obj\Debug\05. SquareFrameKrum.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\obj\Debug\_05.SquareFrameKrum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\05. SquareFrameKrum\obj\Debug\_05.SquareFrameKrum.pdb

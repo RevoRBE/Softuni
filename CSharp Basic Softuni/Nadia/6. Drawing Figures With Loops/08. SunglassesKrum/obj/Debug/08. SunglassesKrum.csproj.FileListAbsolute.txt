@@ -1,0 +1,5 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\08. SunglassesKrum\bin\Debug\_08.SunglassesKrum.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\08. SunglassesKrum\bin\Debug\_08.SunglassesKrum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\08. SunglassesKrum\bin\Debug\_08.SunglassesKrum.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\08. SunglassesKrum\obj\Debug\_08.SunglassesKrum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\08. SunglassesKrum\obj\Debug\_08.SunglassesKrum.pdb

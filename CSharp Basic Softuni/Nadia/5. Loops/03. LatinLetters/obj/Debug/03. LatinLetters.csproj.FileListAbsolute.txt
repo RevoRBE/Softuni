@@ -1,0 +1,5 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\03. LatinLetters\bin\Debug\_03.LatinLetters.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\03. LatinLetters\bin\Debug\_03.LatinLetters.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\03. LatinLetters\bin\Debug\_03.LatinLetters.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\03. LatinLetters\obj\Debug\_03.LatinLetters.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\03. LatinLetters\obj\Debug\_03.LatinLetters.pdb

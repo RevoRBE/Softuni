@@ -1,0 +1,5 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\14. DivisionWithoutRemainder\bin\Debug\_14.DivisionWithoutRemainder.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\14. DivisionWithoutRemainder\bin\Debug\_14.DivisionWithoutRemainder.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\14. DivisionWithoutRemainder\bin\Debug\_14.DivisionWithoutRemainder.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\14. DivisionWithoutRemainder\obj\Debug\_14.DivisionWithoutRemainder.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\14. DivisionWithoutRemainder\obj\Debug\_14.DivisionWithoutRemainder.pdb

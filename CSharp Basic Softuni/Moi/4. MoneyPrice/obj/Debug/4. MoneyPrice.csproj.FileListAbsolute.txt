@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. MoneyPrice\bin\Debug\_4.MoneyPrice.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. MoneyPrice\bin\Debug\_4.MoneyPrice.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. MoneyPrice\bin\Debug\_4.MoneyPrice.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. MoneyPrice\obj\Debug\4. MoneyPrice.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. MoneyPrice\obj\Debug\_4.MoneyPrice.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. MoneyPrice\obj\Debug\_4.MoneyPrice.pdb

@@ -1,0 +1,11 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\13. AreaOfFigures\bin\Debug\_13.AreaOfFigures.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\13. AreaOfFigures\bin\Debug\_13.AreaOfFigures.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\13. AreaOfFigures\bin\Debug\_13.AreaOfFigures.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\13. AreaOfFigures\obj\Debug\_13.AreaOfFigures.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\13. AreaOfFigures\obj\Debug\_13.AreaOfFigures.pdb
+E:\Softuni\1. Programming Basics\3. Simple Conditionals\13. AreaOfFigures\bin\Debug\_13.AreaOfFigures.exe.config
+E:\Softuni\1. Programming Basics\3. Simple Conditionals\13. AreaOfFigures\obj\Debug\_13.AreaOfFigures.exe
+E:\Softuni\1. Programming Basics\3. Simple Conditionals\13. AreaOfFigures\obj\Debug\_13.AreaOfFigures.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\13. AreaOfFigures\bin\Debug\_13.AreaOfFigures.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\13. AreaOfFigures\obj\Debug\_13.AreaOfFigures.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\13. AreaOfFigures\obj\Debug\_13.AreaOfFigures.pdb

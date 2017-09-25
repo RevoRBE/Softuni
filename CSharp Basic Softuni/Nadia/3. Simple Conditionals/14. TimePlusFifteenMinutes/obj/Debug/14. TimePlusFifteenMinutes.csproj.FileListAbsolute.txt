@@ -1,0 +1,12 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\14. TimePlusFifteenMinutes\bin\Debug\_14.TimePlusFifteenMinutes.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\14. TimePlusFifteenMinutes\bin\Debug\_14.TimePlusFifteenMinutes.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\14. TimePlusFifteenMinutes\bin\Debug\_14.TimePlusFifteenMinutes.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\14. TimePlusFifteenMinutes\obj\Debug\14. TimePlusFifteenMinutes.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\14. TimePlusFifteenMinutes\obj\Debug\_14.TimePlusFifteenMinutes.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\14. TimePlusFifteenMinutes\obj\Debug\_14.TimePlusFifteenMinutes.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\14. TimePlusFifteenMinutes\bin\Debug\_14.TimePlusFifteenMinutes.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\14. TimePlusFifteenMinutes\obj\Debug\_14.TimePlusFifteenMinutes.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\14. TimePlusFifteenMinutes\obj\Debug\_14.TimePlusFifteenMinutes.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\14. TimePlusFifteenMinutes\bin\Debug\_14.TimePlusFifteenMinutes.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\14. TimePlusFifteenMinutes\bin\Debug\_14.TimePlusFifteenMinutes.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\14. TimePlusFifteenMinutes\obj\Debug\14. TimePlusFifteenMinutes.csprojResolveAssemblyReference.cache

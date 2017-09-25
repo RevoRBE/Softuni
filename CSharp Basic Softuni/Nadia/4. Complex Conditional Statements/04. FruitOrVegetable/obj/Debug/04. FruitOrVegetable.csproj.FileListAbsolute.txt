@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\04. FruitOrVegetable\bin\Debug\_04.FruitOrVegetable.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\04. FruitOrVegetable\obj\Debug\04. FruitOrVegetable.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\04. FruitOrVegetable\bin\Debug\_04.FruitOrVegetable.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\04. FruitOrVegetable\bin\Debug\_04.FruitOrVegetable.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\04. FruitOrVegetable\obj\Debug\_04.FruitOrVegetable.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\04. FruitOrVegetable\obj\Debug\_04.FruitOrVegetable.pdb

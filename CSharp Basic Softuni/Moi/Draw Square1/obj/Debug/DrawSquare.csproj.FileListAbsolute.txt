@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\ConsoleApplication1\obj\Debug\DrawSquare.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\MetricConverter\bin\Debug\MetricConverter.exe.config
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\MetricConverter\obj\Debug\MetricConverter.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\MetricConverter\bin\Debug\MetricConverter.exe
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\MetricConverter\bin\Debug\MetricConverter.pdb
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\MetricConverter\obj\Debug\MetricConverter.exe
+C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\MetricConverter\obj\Debug\MetricConverter.pdb

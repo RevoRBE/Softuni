@@ -1,0 +1,6 @@
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\06. ControlNumber\bin\Debug\_06.ControlNumber.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\06. ControlNumber\bin\Debug\_06.ControlNumber.exe
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\06. ControlNumber\bin\Debug\_06.ControlNumber.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\06. ControlNumber\obj\Debug\06. ControlNumber.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\06. ControlNumber\obj\Debug\_06.ControlNumber.exe
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\06. ControlNumber\obj\Debug\_06.ControlNumber.pdb

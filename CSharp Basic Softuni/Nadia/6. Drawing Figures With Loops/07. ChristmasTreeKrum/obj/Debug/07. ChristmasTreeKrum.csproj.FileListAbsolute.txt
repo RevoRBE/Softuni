@@ -1,0 +1,5 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\07. ChristmasTreeKrum\bin\Debug\_07.ChristmasTreeKrum.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\07. ChristmasTreeKrum\bin\Debug\_07.ChristmasTreeKrum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\07. ChristmasTreeKrum\bin\Debug\_07.ChristmasTreeKrum.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\07. ChristmasTreeKrum\obj\Debug\_07.ChristmasTreeKrum.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\07. ChristmasTreeKrum\obj\Debug\_07.ChristmasTreeKrum.pdb

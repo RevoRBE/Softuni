@@ -1,0 +1,6 @@
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\06. SumOfTwoNumbers\bin\Debug\_06.SumOfTwoNumbers.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\06. SumOfTwoNumbers\bin\Debug\_06.SumOfTwoNumbers.exe
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\06. SumOfTwoNumbers\bin\Debug\_06.SumOfTwoNumbers.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\06. SumOfTwoNumbers\obj\Debug\_06.SumOfTwoNumbers.exe
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\06. SumOfTwoNumbers\obj\Debug\_06.SumOfTwoNumbers.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\06. SumOfTwoNumbers\obj\Debug\06. SumOfTwoNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\TimeSpan\bin\Debug\TimeSpan.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\TimeSpan\obj\Debug\TimeSpan.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\TimeSpan\bin\Debug\TimeSpan.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\TimeSpan\bin\Debug\TimeSpan.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\TimeSpan\obj\Debug\TimeSpan.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\TimeSpan\obj\Debug\TimeSpan.pdb

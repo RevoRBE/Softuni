@@ -1,0 +1,12 @@
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\10. HalfSumElement\bin\Debug\_10.HalfSumElement.exe.config
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\10. HalfSumElement\bin\Debug\_10.HalfSumElement.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\10. HalfSumElement\bin\Debug\_10.HalfSumElement.pdb
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\10. HalfSumElement\obj\Debug\10. HalfSumElement.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\10. HalfSumElement\obj\Debug\_10.HalfSumElement.exe
+C:\Users\Adrian\Desktop\SoftUni2107\Loops\10. HalfSumElement\obj\Debug\_10.HalfSumElement.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\10. HalfSumElement\bin\Debug\_10.HalfSumElement.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\10. HalfSumElement\obj\Debug\_10.HalfSumElement.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\10. HalfSumElement\obj\Debug\_10.HalfSumElement.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\10. HalfSumElement\obj\Debug\10. HalfSumElement.csprojResolveAssemblyReference.cache
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\10. HalfSumElement\bin\Debug\_10.HalfSumElement.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\10. HalfSumElement\bin\Debug\_10.HalfSumElement.pdb

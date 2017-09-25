@@ -1,0 +1,5 @@
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6. Profit\bin\Debug\_6.Profit.exe.config
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6. Profit\bin\Debug\_6.Profit.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6. Profit\bin\Debug\_6.Profit.pdb
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6. Profit\obj\Debug\_6.Profit.exe
+C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6. Profit\obj\Debug\_6.Profit.pdb
