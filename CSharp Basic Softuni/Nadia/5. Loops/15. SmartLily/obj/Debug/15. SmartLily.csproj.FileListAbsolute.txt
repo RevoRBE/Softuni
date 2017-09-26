@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\15. SmartLily\bin\Debug\_15.SmartLily.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\15. SmartLily\bin\Debug\_15.SmartLily.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\15. SmartLily\bin\Debug\_15.SmartLily.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\15. SmartLily\obj\Debug\15. SmartLily.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\15. SmartLily\obj\Debug\_15.SmartLily.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\15. SmartLily\obj\Debug\_15.SmartLily.pdb

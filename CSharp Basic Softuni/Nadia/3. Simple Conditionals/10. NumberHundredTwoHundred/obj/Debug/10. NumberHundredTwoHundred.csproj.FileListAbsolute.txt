@@ -1,9 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\10. NumberHundredTwoHundred\bin\Debug\_10.NumberHundredTwoHundred.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\10. NumberHundredTwoHundred\bin\Debug\_10.NumberHundredTwoHundred.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\10. NumberHundredTwoHundred\bin\Debug\_10.NumberHundredTwoHundred.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\10. NumberHundredTwoHundred\obj\Debug\10. NumberHundredTwoHundred.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\10. NumberHundredTwoHundred\obj\Debug\_10.NumberHundredTwoHundred.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\10. NumberHundredTwoHundred\obj\Debug\_10.NumberHundredTwoHundred.pdb
-E:\Softuni\1. Programming Basics\3. Simple Conditionals\10. NumberHundredTwoHundred\bin\Debug\_10.NumberHundredTwoHundred.exe.config
-E:\Softuni\1. Programming Basics\3. Simple Conditionals\10. NumberHundredTwoHundred\obj\Debug\_10.NumberHundredTwoHundred.exe
-E:\Softuni\1. Programming Basics\3. Simple Conditionals\10. NumberHundredTwoHundred\obj\Debug\_10.NumberHundredTwoHundred.pdb

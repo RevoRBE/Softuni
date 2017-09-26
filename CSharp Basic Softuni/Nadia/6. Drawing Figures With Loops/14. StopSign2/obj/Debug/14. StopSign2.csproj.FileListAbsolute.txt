@@ -1,5 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\14. StopSign2\bin\Debug\_14.StopSign2.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\14. StopSign2\bin\Debug\_14.StopSign2.exe
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\14. StopSign2\bin\Debug\_14.StopSign2.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\14. StopSign2\obj\Debug\_14.StopSign2.exe
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\14. StopSign2\obj\Debug\_14.StopSign2.pdb

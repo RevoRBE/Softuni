@@ -1,6 +1,0 @@
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. Cake\bin\Debug\_4.Cake.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. Cake\bin\Debug\_4.Cake.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. Cake\bin\Debug\_4.Cake.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. Cake\obj\Debug\4. Cake.csprojResolveAssemblyReference.cache
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. Cake\obj\Debug\_4.Cake.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\4. Cake\obj\Debug\_4.Cake.pdb

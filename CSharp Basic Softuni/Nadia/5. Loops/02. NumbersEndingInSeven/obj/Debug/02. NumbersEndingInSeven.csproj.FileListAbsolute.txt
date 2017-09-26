@@ -1,5 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\02. NumbersEndingInSeven\bin\Debug\_02.NumbersEndingInSeven.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\02. NumbersEndingInSeven\bin\Debug\_02.NumbersEndingInSeven.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\02. NumbersEndingInSeven\bin\Debug\_02.NumbersEndingInSeven.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\02. NumbersEndingInSeven\obj\Debug\_02.NumbersEndingInSeven.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\02. NumbersEndingInSeven\obj\Debug\_02.NumbersEndingInSeven.pdb

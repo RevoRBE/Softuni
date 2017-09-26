@@ -1,6 +1,0 @@
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\CurencyConvertorShort\bin\Debug\CurencyConvertorShort.exe.config
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\CurencyConvertorShort\bin\Debug\CurencyConvertorShort.exe
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\CurencyConvertorShort\bin\Debug\CurencyConvertorShort.pdb
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\CurencyConvertorShort\obj\Debug\CurencyConvertorShort.csprojResolveAssemblyReference.cache
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\CurencyConvertorShort\obj\Debug\CurencyConvertorShort.exe
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\CurencyConvertorShort\obj\Debug\CurencyConvertorShort.pdb

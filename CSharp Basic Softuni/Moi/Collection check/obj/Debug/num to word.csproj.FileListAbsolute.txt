@@ -1,3 +1,0 @@
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Collection check\bin\Debug\Collection check.exe.config
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Collection check\obj\Debug\Collection check.exe
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Collection check\obj\Debug\Collection check.pdb

@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\05. SoftUniLogo\bin\Debug\_05.SoftUniLogo.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\05. SoftUniLogo\bin\Debug\_05.SoftUniLogo.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\05. SoftUniLogo\bin\Debug\_05.SoftUniLogo.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\05. SoftUniLogo\obj\Debug\05. SoftUniLogo.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\05. SoftUniLogo\obj\Debug\_05.SoftUniLogo.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch18\05. SoftUniLogo\obj\Debug\_05.SoftUniLogo.pdb

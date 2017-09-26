@@ -1,8 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\07. FruitShop\bin\Debug\_07.FruitShop.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\07. FruitShop\obj\Debug\07. FruitShop.csprojResolveAssemblyReference.cache
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\07. FruitShop\bin\Debug\_07.FruitShop.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\07. FruitShop\obj\Debug\07. FruitShop.csprojResolveAssemblyReference.cache
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\07. FruitShop\bin\Debug\_07.FruitShop.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\07. FruitShop\bin\Debug\_07.FruitShop.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\07. FruitShop\obj\Debug\_07.FruitShop.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\07. FruitShop\obj\Debug\_07.FruitShop.pdb

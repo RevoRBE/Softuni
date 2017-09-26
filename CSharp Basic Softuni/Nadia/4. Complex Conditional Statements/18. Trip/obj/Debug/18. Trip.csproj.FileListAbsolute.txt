@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\18. Trip\bin\Debug\_18.Trip.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\18. Trip\bin\Debug\_18.Trip.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\18. Trip\bin\Debug\_18.Trip.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\18. Trip\obj\Debug\18. Trip.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\18. Trip\obj\Debug\_18.Trip.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\18. Trip\obj\Debug\_18.Trip.pdb

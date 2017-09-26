@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\04. TriangleOfDollars\bin\Debug\_04.TriangleOfDollars.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\04. TriangleOfDollars\bin\Debug\_04.TriangleOfDollars.exe
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\04. TriangleOfDollars\bin\Debug\_04.TriangleOfDollars.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\04. TriangleOfDollars\obj\Debug\_04.TriangleOfDollars.exe
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\04. TriangleOfDollars\obj\Debug\_04.TriangleOfDollars.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\04. TriangleOfDollars\obj\Debug\04. TriangleOfDollars.csprojResolveAssemblyReference.cache

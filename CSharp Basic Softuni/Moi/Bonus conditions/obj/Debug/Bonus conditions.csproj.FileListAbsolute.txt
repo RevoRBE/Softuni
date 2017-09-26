@@ -1,6 +1,0 @@
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Bonus conditions\bin\Debug\Bonus conditions.exe.config
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Bonus conditions\obj\Debug\Bonus conditions.csprojResolveAssemblyReference.cache
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Bonus conditions\bin\Debug\Bonus conditions.exe
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Bonus conditions\bin\Debug\Bonus conditions.pdb
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Bonus conditions\obj\Debug\Bonus conditions.exe
-C:\Users\Revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Bonus conditions\obj\Debug\Bonus conditions.pdb

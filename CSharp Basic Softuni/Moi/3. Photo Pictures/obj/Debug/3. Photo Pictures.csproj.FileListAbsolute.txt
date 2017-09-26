@@ -1,6 +1,0 @@
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3. Photo Pictures\bin\Debug\_3.Photo_Pictures.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3. Photo Pictures\bin\Debug\_3.Photo_Pictures.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3. Photo Pictures\bin\Debug\_3.Photo_Pictures.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3. Photo Pictures\obj\Debug\3. Photo Pictures.csprojResolveAssemblyReference.cache
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3. Photo Pictures\obj\Debug\_3.Photo_Pictures.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\3. Photo Pictures\obj\Debug\_3.Photo_Pictures.pdb

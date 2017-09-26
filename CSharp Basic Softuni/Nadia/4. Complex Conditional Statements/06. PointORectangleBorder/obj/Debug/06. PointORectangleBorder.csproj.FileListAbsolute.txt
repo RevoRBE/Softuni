@@ -1,7 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\06. PointORectangleBorder\bin\Debug\_06.PointORectangleBorder.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\06. PointORectangleBorder\bin\Debug\_06.PointORectangleBorder.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\06. PointORectangleBorder\obj\Debug\06. PointORectangleBorder.csprojResolveAssemblyReference.cache
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\06. PointORectangleBorder\bin\Debug\_06.PointORectangleBorder.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\06. PointORectangleBorder\bin\Debug\_06.PointORectangleBorder.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\06. PointORectangleBorder\obj\Debug\_06.PointORectangleBorder.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\06. PointORectangleBorder\obj\Debug\_06.PointORectangleBorder.pdb

@@ -1,2 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\05. Number0-9toText\bin\Debug\_05.Number0_9toText.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\05. Number0-9toText\bin\Debug\_05.Number0_9toText.exe.config

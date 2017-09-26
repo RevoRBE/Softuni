@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\ExamDesember18\06. LettersCombinations\bin\Debug\_06.LettersCombinations.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\ExamDesember18\06. LettersCombinations\bin\Debug\_06.LettersCombinations.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamDesember18\06. LettersCombinations\bin\Debug\_06.LettersCombinations.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\ExamDesember18\06. LettersCombinations\obj\Debug\06. LettersCombinations.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\ExamDesember18\06. LettersCombinations\obj\Debug\_06.LettersCombinations.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamDesember18\06. LettersCombinations\obj\Debug\_06.LettersCombinations.pdb

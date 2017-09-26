@@ -1,9 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\18. PipesInPool\bin\Debug\_18.PipesInPool.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\18. PipesInPool\bin\Debug\_18.PipesInPool.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\18. PipesInPool\bin\Debug\_18.PipesInPool.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\18. PipesInPool\obj\Debug\18. PipesInPool.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\18. PipesInPool\obj\Debug\_18.PipesInPool.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\18. PipesInPool\obj\Debug\_18.PipesInPool.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\18. PipesInPool\bin\Debug\_18.PipesInPool.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\18. PipesInPool\obj\Debug\_18.PipesInPool.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\3. Simple Conditionals\18. PipesInPool\obj\Debug\_18.PipesInPool.pdb

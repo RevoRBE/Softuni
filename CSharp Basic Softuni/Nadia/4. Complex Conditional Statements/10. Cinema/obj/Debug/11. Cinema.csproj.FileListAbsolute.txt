@@ -1,6 +1,0 @@
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\10. Cinema\bin\Debug\_10.Cinema.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\10. Cinema\obj\Debug\_10.Cinema.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\10. Cinema\obj\Debug\_10.Cinema.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\10. Cinema\bin\Debug\_10.Cinema.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\10. Cinema\bin\Debug\_10.Cinema.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\10. Cinema\obj\Debug\11. Cinema.csprojResolveAssemblyReference.cache

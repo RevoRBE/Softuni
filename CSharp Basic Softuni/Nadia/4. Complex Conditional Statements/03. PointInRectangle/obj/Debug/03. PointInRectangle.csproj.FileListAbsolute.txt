@@ -1,2 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\03. PointInRectangle\bin\Debug\_03.PointInRectangle.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\4. Complex Conditional Statements\03. PointInRectangle\bin\Debug\_03.PointInRectangle.exe.config

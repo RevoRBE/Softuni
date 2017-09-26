@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\04. GreaterNumber\bin\Debug\_04.GreaterNumber.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\04. GreaterNumber\bin\Debug\_04.GreaterNumber.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\04. GreaterNumber\bin\Debug\_04.GreaterNumber.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\04. GreaterNumber\obj\Debug\04. GreaterNumber.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\04. GreaterNumber\obj\Debug\_04.GreaterNumber.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\04. GreaterNumber\obj\Debug\_04.GreaterNumber.pdb

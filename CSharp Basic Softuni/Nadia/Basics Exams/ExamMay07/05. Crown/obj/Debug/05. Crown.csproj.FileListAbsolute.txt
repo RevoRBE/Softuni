@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\05. Crown\bin\Debug\_05.Crown.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\05. Crown\bin\Debug\_05.Crown.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\05. Crown\bin\Debug\_05.Crown.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\05. Crown\obj\Debug\05. Crown.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\05. Crown\obj\Debug\_05.Crown.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\05. Crown\obj\Debug\_05.Crown.pdb

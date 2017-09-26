@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Difficult Loops\22. SpecialDigit2\bin\Debug\_22.SpecialDigit2.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\22. SpecialDigit2\bin\Debug\_22.SpecialDigit2.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\22. SpecialDigit2\bin\Debug\_22.SpecialDigit2.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\22. SpecialDigit2\bin\Debug\_22.SpecialDigit2.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\22. SpecialDigit2\obj\Debug\_22.SpecialDigit2.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\22. SpecialDigit2\obj\Debug\_22.SpecialDigit2.pdb

@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\03. TruckDriver\bin\Debug\_03.TruckDriver.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\03. TruckDriver\bin\Debug\_03.TruckDriver.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\03. TruckDriver\bin\Debug\_03.TruckDriver.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\03. TruckDriver\obj\Debug\03. TruckDriver.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\03. TruckDriver\obj\Debug\_03.TruckDriver.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\03. TruckDriver\obj\Debug\_03.TruckDriver.pdb

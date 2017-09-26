@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19Morning\05. Hourglass\bin\Debug\_05.Hourglass.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19Morning\05. Hourglass\bin\Debug\_05.Hourglass.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19Morning\05. Hourglass\bin\Debug\_05.Hourglass.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19Morning\05. Hourglass\obj\Debug\05. Hourglass.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19Morning\05. Hourglass\obj\Debug\_05.Hourglass.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19Morning\05. Hourglass\obj\Debug\_05.Hourglass.pdb

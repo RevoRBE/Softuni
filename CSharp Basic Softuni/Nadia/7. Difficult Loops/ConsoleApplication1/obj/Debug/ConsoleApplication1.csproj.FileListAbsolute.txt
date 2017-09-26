@@ -1,7 +1,0 @@
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Difficult Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\7. Difficult Loops\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

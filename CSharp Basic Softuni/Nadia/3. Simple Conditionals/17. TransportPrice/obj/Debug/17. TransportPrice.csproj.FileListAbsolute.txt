@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\17. TransportPrice\bin\Debug\_17.TransportPrice.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\17. TransportPrice\bin\Debug\_17.TransportPrice.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\17. TransportPrice\bin\Debug\_17.TransportPrice.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\17. TransportPrice\obj\Debug\17. TransportPrice.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\17. TransportPrice\obj\Debug\_17.TransportPrice.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\17. TransportPrice\obj\Debug\_17.TransportPrice.pdb

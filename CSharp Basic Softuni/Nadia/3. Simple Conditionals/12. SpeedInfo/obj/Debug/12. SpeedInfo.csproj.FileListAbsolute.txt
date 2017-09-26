@@ -1,9 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\12. SpeedInfo\bin\Debug\_12.SpeedInfo.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\12. SpeedInfo\bin\Debug\_12.SpeedInfo.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\12. SpeedInfo\bin\Debug\_12.SpeedInfo.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\12. SpeedInfo\obj\Debug\12. SpeedInfo.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\12. SpeedInfo\obj\Debug\_12.SpeedInfo.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\12. SpeedInfo\obj\Debug\_12.SpeedInfo.pdb
-E:\Softuni\1. Programming Basics\3. Simple Conditionals\12. SpeedInfo\bin\Debug\_12.SpeedInfo.exe.config
-E:\Softuni\1. Programming Basics\3. Simple Conditionals\12. SpeedInfo\obj\Debug\_12.SpeedInfo.exe
-E:\Softuni\1. Programming Basics\3. Simple Conditionals\12. SpeedInfo\obj\Debug\_12.SpeedInfo.pdb

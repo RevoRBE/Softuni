@@ -1,6 +1,0 @@
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\10. DiamondKrum\bin\Debug\_10.DiamondKrum.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\10. DiamondKrum\obj\Debug\10. DiamondKrum.csprojResolveAssemblyReference.cache
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\10. DiamondKrum\bin\Debug\_10.DiamondKrum.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\10. DiamondKrum\bin\Debug\_10.DiamondKrum.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\10. DiamondKrum\obj\Debug\_10.DiamondKrum.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\6. Drawing Figures With Loops\10. DiamondKrum\obj\Debug\_10.DiamondKrum.pdb

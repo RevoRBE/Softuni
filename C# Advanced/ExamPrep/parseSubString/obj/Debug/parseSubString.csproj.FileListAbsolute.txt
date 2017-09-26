@@ -1,6 +1,0 @@
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\C# Advanced\ExamPrep\parseSubString\bin\Debug\parseSubString.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\C# Advanced\ExamPrep\parseSubString\bin\Debug\parseSubString.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\C# Advanced\ExamPrep\parseSubString\bin\Debug\parseSubString.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\C# Advanced\ExamPrep\parseSubString\obj\Debug\parseSubString.csprojResolveAssemblyReference.cache
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\C# Advanced\ExamPrep\parseSubString\obj\Debug\parseSubString.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\C# Advanced\ExamPrep\parseSubString\obj\Debug\parseSubString.pdb

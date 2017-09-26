@@ -1,6 +1,0 @@
-c:\users\revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Draw Square\bin\Debug\Draw Square.exe.config
-c:\users\revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Draw Square\obj\Debug\Draw Square.csprojResolveAssemblyReference.cache
-c:\users\revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Draw Square\bin\Debug\Draw Square.exe
-c:\users\revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Draw Square\bin\Debug\Draw Square.pdb
-c:\users\revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Draw Square\obj\Debug\Draw Square.exe
-c:\users\revolutionist\documents\visual studio 2013\Projects\CSharp Basic Softuni\Draw Square\obj\Debug\Draw Square.pdb

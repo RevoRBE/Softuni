@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\02. Styrofoam\bin\Debug\_02.Styrofoam.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\02. Styrofoam\bin\Debug\_02.Styrofoam.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\02. Styrofoam\bin\Debug\_02.Styrofoam.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\02. Styrofoam\obj\Debug\02. Styrofoam.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\02. Styrofoam\obj\Debug\_02.Styrofoam.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMarch19\02. Styrofoam\obj\Debug\_02.Styrofoam.pdb

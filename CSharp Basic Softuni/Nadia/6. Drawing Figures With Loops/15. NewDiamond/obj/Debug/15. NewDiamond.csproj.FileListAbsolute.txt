@@ -1,5 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\15. NewDiamond\bin\Debug\_15.NewDiamond.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\15. NewDiamond\bin\Debug\_15.NewDiamond.exe
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\15. NewDiamond\bin\Debug\_15.NewDiamond.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\15. NewDiamond\obj\Debug\_15.NewDiamond.exe
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\15. NewDiamond\obj\Debug\_15.NewDiamond.pdb

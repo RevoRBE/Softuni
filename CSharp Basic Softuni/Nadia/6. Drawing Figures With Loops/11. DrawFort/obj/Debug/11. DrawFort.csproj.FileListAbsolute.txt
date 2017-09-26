@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\11. DrawFort\bin\Debug\_11.DrawFort.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\11. DrawFort\bin\Debug\_11.DrawFort.exe
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\11. DrawFort\bin\Debug\_11.DrawFort.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\11. DrawFort\obj\Debug\11. DrawFort.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\11. DrawFort\obj\Debug\_11.DrawFort.exe
-C:\Users\Adrian\Desktop\SoftUni2107\DrawingFiguresWithLoops\11. DrawFort\obj\Debug\_11.DrawFort.pdb

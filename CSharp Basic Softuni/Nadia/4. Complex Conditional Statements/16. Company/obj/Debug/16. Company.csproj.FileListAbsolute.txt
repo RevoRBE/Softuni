@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\16. Company\bin\Debug\_16.Company.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\16. Company\bin\Debug\_16.Company.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\16. Company\bin\Debug\_16.Company.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\16. Company\obj\Debug\16. Company.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\16. Company\obj\Debug\_16.Company.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Complex Conditional Statements\16. Company\obj\Debug\_16.Company.pdb

@@ -1,5 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\11. EqualWords\bin\Debug\_11.EqualWords.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\11. EqualWords\bin\Debug\_11.EqualWords.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\11. EqualWords\bin\Debug\_11.EqualWords.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\11. EqualWords\obj\Debug\_11.EqualWords.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Simple_Conditionals\11. EqualWords\obj\Debug\_11.EqualWords.pdb

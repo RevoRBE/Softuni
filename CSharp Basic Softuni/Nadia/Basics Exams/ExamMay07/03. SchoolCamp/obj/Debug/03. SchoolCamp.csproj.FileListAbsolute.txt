@@ -1,6 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\03. SchoolCamp\bin\Debug\_03.SchoolCamp.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\03. SchoolCamp\bin\Debug\_03.SchoolCamp.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\03. SchoolCamp\bin\Debug\_03.SchoolCamp.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\03. SchoolCamp\obj\Debug\03. SchoolCamp.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\03. SchoolCamp\obj\Debug\_03.SchoolCamp.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\03. SchoolCamp\obj\Debug\_03.SchoolCamp.pdb

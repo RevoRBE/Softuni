@@ -1,9 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\12. EqualPairs\bin\Debug\_12.EqualPairs.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\12. EqualPairs\bin\Debug\_12.EqualPairs.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\12. EqualPairs\bin\Debug\_12.EqualPairs.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\12. EqualPairs\obj\Debug\12. EqualPairs.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\12. EqualPairs\obj\Debug\_12.EqualPairs.exe
-C:\Users\Adrian\Desktop\SoftUni2107\Loops\12. EqualPairs\obj\Debug\_12.EqualPairs.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\12. EqualPairs\bin\Debug\_12.EqualPairs.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\12. EqualPairs\obj\Debug\_12.EqualPairs.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2013\Projects\CSharp Basic Softuni\Nadia\5. Loops\12. EqualPairs\obj\Debug\_12.EqualPairs.pdb

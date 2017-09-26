@@ -1,6 +1,0 @@
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\5.Cup\bin\Debug\5.Cup.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\5.Cup\bin\Debug\5.Cup.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\5.Cup\bin\Debug\5.Cup.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\5.Cup\obj\Debug\5.Cup.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\5.Cup\obj\Debug\5.Cup.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\5.Cup\obj\Debug\5.Cup.csprojResolveAssemblyReference.cache

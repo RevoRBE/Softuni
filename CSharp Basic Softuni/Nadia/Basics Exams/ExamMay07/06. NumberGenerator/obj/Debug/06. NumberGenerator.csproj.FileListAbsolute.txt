@@ -1,9 +1,0 @@
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\06. NumberGenerator\bin\Debug\_06.NumberGenerator.exe.config
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\06. NumberGenerator\bin\Debug\_06.NumberGenerator.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\06. NumberGenerator\bin\Debug\_06.NumberGenerator.pdb
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\06. NumberGenerator\obj\Debug\06. NumberGenerator.csprojResolveAssemblyReference.cache
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\06. NumberGenerator\obj\Debug\_06.NumberGenerator.exe
-C:\Users\Adrian\Desktop\SoftUni2107\ExamMay07\06. NumberGenerator\obj\Debug\_06.NumberGenerator.pdb
-E:\Softuni\1. Programming Basics\Basics Exams\ExamMay07\06. NumberGenerator\bin\Debug\_06.NumberGenerator.exe.config
-E:\Softuni\1. Programming Basics\Basics Exams\ExamMay07\06. NumberGenerator\obj\Debug\_06.NumberGenerator.exe
-E:\Softuni\1. Programming Basics\Basics Exams\ExamMay07\06. NumberGenerator\obj\Debug\_06.NumberGenerator.pdb

@@ -1,6 +1,0 @@
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6.forforforforforcounter\bin\Debug\6.forforforforforcounter.exe.config
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6.forforforforforcounter\bin\Debug\6.forforforforforcounter.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6.forforforforforcounter\bin\Debug\6.forforforforforcounter.pdb
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6.forforforforforcounter\obj\Debug\6.forforforforforcounter.csprojResolveAssemblyReference.cache
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6.forforforforforcounter\obj\Debug\6.forforforforforcounter.exe
-C:\Users\Revolutionist\Documents\Visual Studio 2017\Projects\CSharp Basic Softuni\Moi\6.forforforforforcounter\obj\Debug\6.forforforforforcounter.pdb
