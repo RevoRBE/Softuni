@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decode and Decrypt", "Decode and Decrypt\Decode and Decrypt.csproj", "{8076387C-F5CC-49E7-A594-650BF0FDA382}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parseSubString", "parseSubString\parseSubString.csproj", "{DCD377F5-9D5E-4BA5-83E4-547ADA14B7D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightGame", "KnightGame\KnightGame.csproj", "{EBDC44AE-46E0-4440-A719-D09A9D61400D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{DCD377F5-9D5E-4BA5-83E4-547ADA14B7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCD377F5-9D5E-4BA5-83E4-547ADA14B7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCD377F5-9D5E-4BA5-83E4-547ADA14B7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDC44AE-46E0-4440-A719-D09A9D61400D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDC44AE-46E0-4440-A719-D09A9D61400D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDC44AE-46E0-4440-A719-D09A9D61400D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDC44AE-46E0-4440-A719-D09A9D61400D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B281555A-5C2F-4788-834E-1BFF3A12DE75}
 	EndGlobalSection
 EndGlobal
