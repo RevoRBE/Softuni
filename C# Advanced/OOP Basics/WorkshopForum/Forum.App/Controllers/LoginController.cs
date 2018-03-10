@@ -34,8 +34,7 @@ namespace Forum.App.Services
                     break;
                 case Command.Back:
                     break;
-                default:
-                    break;
+               
             }
         }
 
