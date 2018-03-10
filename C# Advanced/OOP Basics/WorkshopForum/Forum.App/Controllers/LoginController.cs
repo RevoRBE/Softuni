@@ -24,7 +24,20 @@ namespace Forum.App.Services
 
         public MenuState ExecuteCommand(int index)
         {
-            throw new System.NotImplementedException();
+            switch ((Command)index)
+            {
+                case Command.ReadUsername:
+                    this.ReadUsername();
+                    return MenuState.Login;
+                case Command.ReadPassword:
+                    this.ReadPassword();
+                    return MenuState.Login;
+                case Command.LogIn:
+                    return MenuState.Error;
+                case Command.Back:
+                    return MenuState.Back;
+            }
+            throw new System.InvalidOperationException();
         }
 
         public IView GetView(string userName)

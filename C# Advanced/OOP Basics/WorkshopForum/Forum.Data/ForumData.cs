@@ -26,5 +26,6 @@ namespace Forum.Data
             DataMapper.SavePosts(this.Posts);
             DataMapper.SaveReplies(this.Replies);
         }
+        
     }
 }
