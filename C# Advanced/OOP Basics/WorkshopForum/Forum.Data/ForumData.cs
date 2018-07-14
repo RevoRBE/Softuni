@@ -5,7 +5,7 @@ using Forum.Models;
 
 namespace Forum.Data
 {
-    class ForumData
+    public class ForumData
     {
         public List<Category> Categories { get; set; }
         public List<User> Users { get; set; }

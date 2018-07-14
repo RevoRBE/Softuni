@@ -14,7 +14,8 @@ class Program
             sb.Append(Console.ReadLine());
         var text = sb.ToString();
         string pattern = @"((?<a>{)|\[).*?(\d{3,}).*?(?(a)}|\])";
-        MatchCollection matches = Regex.Matches(text, pattern);
+        string pattern1 = @"(\[|\{)([^0-9\[\{]*([0-9]{3,})[^0-9\]\}]*)(\]|\})";
+        MatchCollection matches = Regex.Matches(text, pattern1);
         sb.Clear();
         var list = new List<int>();
         foreach (Match match in matches)

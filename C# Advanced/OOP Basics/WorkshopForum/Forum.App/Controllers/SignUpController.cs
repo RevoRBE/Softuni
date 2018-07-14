@@ -1,7 +1,8 @@
-﻿namespace Forum.App.Services
+﻿namespace Forum.App.Controllers
 {
 	using Forum.App;
-	using Forum.App.Services.Contracts;
+    using Forum.App.Services;
+    using Forum.App.Services.Contracts;
     using Forum.App.UserInterface;
     using Forum.App.UserInterface.Contracts;
     using Forum.App.UserInterface.Views;
@@ -14,7 +15,7 @@
         {
             ReadUsername, ReadPassword, SignUp, Back
         }
-        private enum SignUpStatus
+        public enum SignUpStatus
         {
             Success, DetailsError, UsernameTakenError
         }
@@ -36,7 +37,21 @@
                    return MenuState.Signup;
                
                 case Command.SignUp:
-                   return MenuState.Signup;
+                    SignUpStatus signUp = UserService.TrySignUpUser(this.Username, this.Password);
+                    switch (signUp)
+                    {
+                        case SignUpStatus.Success:
+                            return MenuState.SuccessfulLogIn;
+                        case SignUpStatus.DetailsError:
+                            this.ErrorMessage = DETAILS_ERROR;
+                            return MenuState.Error;
+                        case SignUpStatus.UsernameTakenError:
+                           this.ErrorMessage = USERNAME_TAKEN_ERROR;
+                            return MenuState.Error;
+                        default:
+                            break;
+                    }
+                    return MenuState.Signup;
            
                 case Command.Back:
                     this.ResetSignUp();

@@ -2,8 +2,9 @@
 using Forum.App.UserInterface;
 using Forum.App.UserInterface.Views;
 
-namespace Forum.App.Services
+namespace Forum.App.Controllers
 {
+    using Forum.App.Services;
     using Forum.App.Services.Contracts;
     using Forum.App.UserInterface.Contracts;
 
@@ -33,8 +34,12 @@ namespace Forum.App.Services
                     this.ReadPassword();
                     return MenuState.Login;
                 case Command.LogIn:
+                    bool loggedIn = UserService.TryLogInUser(this.Username, this.Password);
+                    if (loggedIn) return MenuState.SuccessfulLogIn;
+                    this.Error = true;
                     return MenuState.Error;
                 case Command.Back:
+                    this.ResetLogin();
                     return MenuState.Back;
             }
             throw new System.InvalidOperationException();
@@ -61,7 +66,7 @@ namespace Forum.App.Services
         {
             this.Error = false;
             this.Username = String.Empty;
-            this.Password= String.Empty;
+            this.Password = String.Empty;
         }
     }
 }

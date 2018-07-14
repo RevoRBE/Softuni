@@ -26,14 +26,14 @@ class Sneaking
         }
         cols = board[0].Length;
 
-        var moves = new Queue<char>(Console.ReadLine().ToCharArray().ToArray());
+        //var moves = new Queue<char>(Console.ReadLine().ToCharArray().ToArray());
         findPlayers();
         while (samLives && nikoLives)
         {
             enemiesMove();
             check();
             if (!samLives) break;
-            samMoves(moves);
+            //samMoves(moves);
             check();
             if (sam[0]== niko[0])
             {
@@ -65,7 +65,7 @@ class Sneaking
     {
         int i = sam[0];
         int j = sam[1];
-        if (!moves.Any())
+        //if (!moves.Any())
         {
             return;
         }
