@@ -83,7 +83,7 @@ namespace Forum.Data
             var dataLines = ReadLines(config["users"]);
             foreach (var line in dataLines)
             {
-                var args = line.Split(";", StringSplitOptions.RemoveEmptyEntries);
+                var args = line.Split(";");
                 var id = int.Parse(args[0]);
                 var userName = args[1];
                 var password = args[2];

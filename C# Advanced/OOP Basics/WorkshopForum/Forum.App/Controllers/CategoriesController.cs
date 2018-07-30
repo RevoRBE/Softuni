@@ -1,4 +1,4 @@
-﻿namespace Forum.App.Services
+﻿namespace Forum.App.Controllers
 {
     using System;
 

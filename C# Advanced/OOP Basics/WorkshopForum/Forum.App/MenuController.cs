@@ -4,6 +4,7 @@
     using System.Collections.Generic;
     using System.Linq;
     using Forum.App.Services;
+    using Forum.App.Controllers;
     using Forum.App.Services.Contracts;
     using Forum.App.UserInterface;
     using Forum.App.UserInterface.Contracts;
@@ -81,7 +82,7 @@
 
         internal void Back()
         {
-            if (this.State == MenuState.Categories || this.State == MenuState.ViewCategory)
+            if (this.State == MenuState.Categories || this.State == MenuState.OpenCategory)
             {
                 IPaginationController currentController = (IPaginationController)this.CurrentController;
                 currentController.CurrentPage = 0;
@@ -118,7 +119,7 @@
                 case MenuState.Back:
                     this.Back();
                     break;
-                case MenuState.ViewCategory:
+                case MenuState.OpenCategory:
                 case MenuState.Error:
                     RenderCurrentView();
                     break;
@@ -146,12 +147,17 @@
 
         private void LogOut()
         {
-            throw new NotImplementedException();
+            this.Username = string.Empty;
+            this.LogOutUser();
+            this.RenderCurrentView();
         }
 
         private void SuccessfulLogin()
         {
-            throw new NotImplementedException();
+           var loginController = (IReadUserInfoController)this.CurrentController;
+            this.Username = loginController.Username;
+            this.LogInUser();
+            RedirectToMenu(MenuState.Main);
         }
 
         private void ViewPost()
@@ -189,12 +195,24 @@
 
         private void LogInUser()
         {
-            throw new NotImplementedException();
+            foreach (var controller in this.controllers)
+            {
+                if (controller is IUserRestrictedController userRestrictedController)
+                {
+                    userRestrictedController.UserLogIn();
+                }
+            }
         }
 
         private void LogOutUser()
         {
-            throw new NotImplementedException();
+            foreach (var controller in this.controllers)
+            {
+                if (controller is IUserRestrictedController userRestrictedController)
+                {
+                    userRestrictedController.UserLogOut();
+                }
+            }
         }
     }
 }
