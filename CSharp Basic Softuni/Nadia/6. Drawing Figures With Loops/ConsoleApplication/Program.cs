@@ -10,8 +10,8 @@ class bug1
     {
      
         string str = "+-+\r\n|-|\r\n+-+\r\n";
-        string str1 = "+-+|-|+-+";
-        string str2 = "abcdefghi";
+        //string str1 = "+-+|-|+-+";
+        //string str2 = "abcdefghi";
 
         char[] charr = new char[str.Length];         
         str.CopyTo(0, charr, 0, str.Length);
