@@ -14,6 +14,6 @@ class easy
         {
             fig.Append(new string('*', num)).AppendLine();
         }
-        Console.Write(str);
+        Console.Write(fig.ToString());
     }
 }

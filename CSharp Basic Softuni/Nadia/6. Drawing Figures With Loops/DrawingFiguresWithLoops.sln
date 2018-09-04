@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. RectangleTenXTenStars", "01. RectangleTenXTenStars\01. RectangleTenXTenStars.csproj", "{7B1AEDE3-D591-4790-BBF9-C42C190D8175}"
 EndProject
@@ -48,6 +48,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. DiamondKrum", "10. DiamondKrum\10. DiamondKrum.csproj", "{45C7FD0B-8B54-459C-AF12-05B2749FE816}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SquareFrameKrum", "05. SquareFrameKrum\05. SquareFrameKrum.csproj", "{64465CC2-60E3-42B9-B0DE-DB3EBEC627AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket!", "Rocket!\Rocket!.csproj", "{46EA6A75-4862-44D4-AF83-EDC75344E076}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,8 +149,15 @@ Global
 		{64465CC2-60E3-42B9-B0DE-DB3EBEC627AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64465CC2-60E3-42B9-B0DE-DB3EBEC627AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64465CC2-60E3-42B9-B0DE-DB3EBEC627AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46EA6A75-4862-44D4-AF83-EDC75344E076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46EA6A75-4862-44D4-AF83-EDC75344E076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46EA6A75-4862-44D4-AF83-EDC75344E076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46EA6A75-4862-44D4-AF83-EDC75344E076}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40EEDC65-0D60-4AFE-B2DB-BC8569DDED84}
 	EndGlobalSection
 EndGlobal

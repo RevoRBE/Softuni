@@ -28,6 +28,7 @@ namespace Forum.App.Controllers
             switch ((Command)index)
             {
                 case Command.ReadUsername:
+
                     this.ReadUsername();
                     return MenuState.Login;
                 case Command.ReadPassword:
